@@ -1,0 +1,23 @@
+
+.main-div {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /*border: 3px solid red;*/
+    max-width: 100vw;
+
+}
+
+.child-div {
+
+    border: 1px solid black;
+    padding: 24px;
+}
+.child-div-container{
+    /*border: 2px solid green;*/
+    display: flex;
+    /*padding: 10px;*/
+    justify-content: space-between;
+    align-items: center;
+}
